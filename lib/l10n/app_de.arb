@@ -1,0 +1,49 @@
+{
+    "@@locale": "de",
+    "lotto_6_49": "Lotto 6 aus 49",
+    "input_combination": "Geben Sie die Zahlenkombinationen ein:",
+    "input_super_num": "Geben Sie die Superzahl ein:",
+    "add_combination": "Hinzufügen",
+    "evaluate": "Überprüfen",
+    "reset": "Zurücksetzen",
+    "remove": "Löschen",
+    "super_num_missing": "Wie wäre es mit der Superzahl?",
+    "combination_limit_exceeded": "Wie wäre es mit der Superzahl?",
+    "results": "Ergebnisse",
+    "win_combination": "Gewinnkombination:",
+    "win_category": "Kategorie {category}, ungefährer Gewinn {amount}!",
+    "@win_category": {
+        "description": "",
+        "placeholders": {
+            "category": {
+                "type": "String",
+                "example": "0"
+            },
+            "amount": {
+                "type": "int",
+                "example": "0"
+            }
+        }
+    },
+    "combination_li": "Kombination {index}: ",
+    "@combination_li": {
+        "description": "",
+        "placeholders": {
+            "index": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "congratulation": "Herzlichen Glückwunsch!",
+    "condolences": "Vielleicht klappt es beim nächsten Mal?!",
+    "evaluation_details": "Kategorie {category} ~ {amount}",
+    "@evaluation_details": {
+        "description": "",
+        "placeholders": {
+          "category": {"type": "String", "example": "0"},
+          "amount": {"type": "int", "example": "0"}
+        }
+    },
+    "evaluation_nil": "Nichts"
+}

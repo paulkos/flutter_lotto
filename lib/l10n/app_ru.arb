@@ -1,0 +1,43 @@
+{
+    "@@locale": "ru",
+    "lotto_6_49": "Lotto 6 aus 49",
+    "input_combination": "Введите комбинации чисел:",
+    "input_super_num": "Введите супер-число:",
+    "add_combination": "Добавить",
+    "evaluate": "Проверить",
+    "reset": "Сбросить",
+    "remove": "Удалить",
+    "super_num_missing": "А как на счет Супер-Числа?",
+    "combination_limit_exceeded": "А как на счет Супер-Числа?",
+    "results": "Результаты",
+    "win_combination": "Выигрышная комбинация:",
+    "win_category": "Категория {category} примерный выйигрышь {amount}!",
+    "@win_category": {
+      "description": "",
+      "placeholders": {
+        "category": {"type": "String", "example": "0"},
+        "amount": {"type": "int", "example": "0"}
+      }
+    },
+    "combination_li": "Комбинация {index}: ",
+    "@combination_li": {
+        "description": "",
+        "placeholders": {
+            "index": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "congratulation": "Поздравляю!",
+    "condolences": "Может в следующий раз повезет?!",
+    "evaluation_details": "Категория {category} ~ {amount}",
+    "@evaluation_details": {
+        "description": "",
+        "placeholders": {
+          "category": {"type": "String", "example": "0"},
+          "amount": {"type": "int", "example": "0"}
+        }
+    },
+    "evaluation_nil": "Пусто"
+}

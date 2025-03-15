@@ -1,0 +1,52 @@
+{
+    "@@locale": "en",
+    "lotto_6_49": "Lotto 6 aus 49",
+    "@lotto_6_49": {
+        "description": "Game name"
+    },
+    "input_combination": "Enter the number combinations:",
+    "input_super_num": "Enter the super-number:",
+    "add_combination": "Add",
+    "evaluate": "Check",
+    "reset": "Reset",
+    "remove": "Remove",
+    "super_num_missing": "What about the Super Number?",
+    "combination_limit_exceeded": "What about the Super Number?",
+    "results": "Results",
+    "win_combination": "Winning combination:",
+    "win_category": "Category {category}, approximate winnings {amount}!",
+    "@win_category": {
+        "description": "",
+        "placeholders": {
+            "category": {
+                "type": "String",
+                "example": "0"
+            },
+            "amount": {
+                "type": "int",
+                "example": "0"
+            }
+        }
+    },
+    "combination_li": "Combination {index}: ",
+    "@combination_li": {
+        "description": "",
+        "placeholders": {
+            "index": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "congratulation": "Congratulations!",
+    "condolences": "Better luck next time?!",
+    "evaluation_details": "Categogy {category} ~ {amount}",
+    "@evaluation_details": {
+        "description": "",
+        "placeholders": {
+          "category": {"type": "String", "example": "0"},
+          "amount": {"type": "int", "example": "0"}
+        }
+    },
+    "evaluation_nil": "Nothing"
+}
